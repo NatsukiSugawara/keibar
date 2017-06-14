@@ -52,5 +52,5 @@ class Crawler
   end
 end
 
-page = Crawler.en
+page = Crawler.enter_in_form
 puts Crawler.crawl(page)
